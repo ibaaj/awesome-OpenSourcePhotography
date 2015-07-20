@@ -139,8 +139,7 @@ record, convert and stream audio and video.*
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.*
 
-
-
+![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 
 
