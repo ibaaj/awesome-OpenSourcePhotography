@@ -54,7 +54,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Sony
 
-- [SonyPy](xhttps://github.com/storborg/sonypy) - *Python module for Sony Camera Remote API.*
+- [SonyPy](https://github.com/storborg/sonypy) - *Python module for Sony Camera Remote API.*
 
 ## Utilities
 
