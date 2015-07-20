@@ -30,6 +30,8 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [GIMP](http://www.gimp.org/) - *A swiss knife for image manipulation.*
 - [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *A non-destructive photo retouching program including RAW image development.*
+- [ImageMagick](http://www.imagemagick.org/) - *A suite of command-line utilities for modifying and working with images.*
+- [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick.*
 
 ## Camera Firmware Mods 
 
