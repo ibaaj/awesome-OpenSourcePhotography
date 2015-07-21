@@ -1,6 +1,6 @@
 #Awesome-OpenSourcePhotography
 
-A list of awesome free open source software & libraries for photography. Also tools for video.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 
 - [General](#general)
