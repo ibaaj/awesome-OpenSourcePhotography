@@ -25,6 +25,8 @@ A list of awesome free open source software & libraries for photography. Also to
 	- [General tools](#general-tools)
 	- [Compositing software](#compositing-software)
 	- [FX Libraries](#fx-libraries)
+- [Scripts](#scripts)
+	- [Video to Panorama](#video-to-panorama)
 
 ## General
 
@@ -144,5 +146,25 @@ record, convert and stream audio and video.*
 
 ![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
+
+## Scripts
+
+### Video to Panorama 
+
+Using [FFmpeg](https://www.ffmpeg.org/) and [Hugin](http://hugin.sourceforge.net/).
+
+```bash
+#!/bin/bash
+mkdir -p /tmp/images
+ffmpeg -i video.avi -r 5 -qscale 3  tmp/images/image-%3d.jpg
+pto_gen -o tmp/hugin.pto tmp/images/*.jpg
+cpfind --multirow -o tmp/hugin.pto tmp/hugin.pto
+cpclean -o tmp/hugin.pto tmp/hugin.pto
+linefind -o tmp/hugin.pto tmp/hugin.pto
+autooptimiser -a -l -s -m -o tmp/hugin.pto tmp/hugin.pto
+pano_modify -o tmp/hugin.pto --center --fov=AUTO --canvas=70% tmp/hugin.pto
+pto2mk -o tmp/hugin.mk -p tmp/output tmp/hugin.pto
+make -f tmp/hugin.mk all
+```
 
 
