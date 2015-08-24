@@ -24,7 +24,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Video](#video)
 	- [General tools](#general-tools)
 	- [Compositing software](#compositing-software)
-	- [FX Libraries](#fx-libraries)
+	- [Video Libraries](#video-libraries)
 - [Scripts](#scripts)
 	- [Video to Panorama](#video-to-panorama)
 
@@ -100,7 +100,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Photo Downloaders
 
-- [Rapid Photo Downloader](http://www.damonlynch.net/rapid/index.html) - *A photo and video downloader for the Linux Desktop?*
+- [Rapid Photo Downloader](http://www.damonlynch.net/rapid/index.html) - *A photo and video downloader for the Linux Desktop.*
 
 ## Camera Tetherers
 
@@ -138,14 +138,13 @@ record, convert and stream audio and video.*
 - [Natron](https://github.com/MrKepzie/Natron) - *A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.*
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *A simple, user-friendly and open source compositing software.* 
 - [Blender](https://www.blender.org/) - *This open source 3D graphics has tools for video editing.*
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.*
 
-### FX Libraries
+### Video Libraries
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.*
-
-![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
-
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*.
 
 ## Scripts
 
@@ -166,5 +165,7 @@ pano_modify -o tmp/hugin.pto --center --fov=AUTO --canvas=70% tmp/hugin.pto
 pto2mk -o tmp/hugin.mk -p tmp/output tmp/hugin.pto
 make -f tmp/hugin.mk all
 ```
+
+![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 
