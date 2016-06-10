@@ -124,6 +124,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Communities
 - [Flickr Open Source Photography Group](https://www.flickr.com/groups/83823859@N00/)
 - [/r/FOSSPhotography](http://reddit.com/r/fossphotography) - *Community about Free open source software for Photography on reddit.*
+- [PIXLS.US](https://pixls.us) - *Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools*
 
 
 ## Video 
