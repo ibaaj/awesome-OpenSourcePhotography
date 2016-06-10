@@ -20,7 +20,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Monitor Color Correction](#monitor-color-correction)
 - [Alternative Image Viewers](#alternative-image-viewers)
 - [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
-- [Communities](#community)
+- [Communities](#Communities)
 - [Video](#video)
 	- [General tools](#general-tools)
 	- [Compositing software](#compositing-software)
@@ -64,7 +64,6 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.*
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
-- [Koken](http://koken.me) - *Content management and web site publishing for photographers*
 
 
 ## RAW image developers
@@ -128,6 +127,8 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Open Source Photography Group on Facebook](https://www.facebook.com/groups/326042310770868/)
 - [Open Source Photography Sub on Reddit](https://www.reddit.com/r/opensourcephotography)
 - [Open Source Photography Group on 500px](https://500px.com/groups/open-source-photography)
+- [PIXLS.US](https://pixls.us) - *Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools*
+
 
 ## Video 
 
