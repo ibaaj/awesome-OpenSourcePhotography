@@ -20,7 +20,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Monitor Color Correction](#monitor-color-correction)
 - [Alternative Image Viewers](#alternative-image-viewers)
 - [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
-- [Communities](#Communities)
+- [Communities](#communities)
 - [Video](#video)
 	- [General tools](#general-tools)
 	- [Compositing software](#compositing-software)
