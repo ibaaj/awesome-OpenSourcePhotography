@@ -21,6 +21,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Alternative Image Viewers](#alternative-image-viewers)
 - [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
 - [Communities](#communities)
+- [Resources](#resources)
 - [Video](#video)
 	- [General tools](#general-tools)
 	- [Compositing software](#compositing-software)
@@ -129,6 +130,8 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Open Source Photography Group on 500px](https://500px.com/groups/open-source-photography)
 - [PIXLS.US](https://pixls.us) - *Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools*
 
+## Resources
+- [Unsplash.com](https://unsplash.com/) - *Free (do whatever you want) high-resolution photos.*
 
 ## Video 
 
