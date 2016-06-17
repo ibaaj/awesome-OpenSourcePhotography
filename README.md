@@ -93,6 +93,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Shotwell](http://yorba.org/shotwell/) - *A photo manager for GNOME 3*
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
 - [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
+- [Lychee](http://lychee.electerious.com/) - *A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.*
 
 ## EXIF Editors
 
