@@ -95,9 +95,9 @@ A list of awesome free open source software & libraries for photography. Also to
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
 - [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
 - [Lychee](http://lychee.electerious.com/) - *A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.*
-- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - A *Android* gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
-- [Leaf Pic](https://github.com/HoraApps/LeafPic/) - material-designed *android* gallery alternative .
-- [A Photo Manager](https://github.com/k3b/APhotoManager/) - Manage local photos on *Android*: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send, .
+- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.*
+- [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *material-designed android gallery alternative.*
+- [A Photo Manager](https://github.com/k3b/APhotoManager/) - *Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...*
 ## EXIF Editors
 
 - [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - *A program for reading, writing, and manipulating image, audio, and video metadata.*
