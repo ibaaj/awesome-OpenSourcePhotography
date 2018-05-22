@@ -136,6 +136,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Resources
 - [Unsplash.com](https://unsplash.com/) - *Free (do whatever you want) high-resolution photos.*
+- [Pexels.com](https://pexels.com/) - *Royalty free high-resolution stock photos.*
 
 ## Video 
 
