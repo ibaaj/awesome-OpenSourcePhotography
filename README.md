@@ -48,6 +48,8 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
+- [LibGphoto2](https://github.com/gphoto/libgphoto2) - *C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.*
+
 ### Canon
 
 - [OfxCanon](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.*
