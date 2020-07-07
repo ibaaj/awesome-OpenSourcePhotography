@@ -11,6 +11,7 @@ A list of awesome free open source software & libraries for photography. Also to
 	- [GoPro](#gopro)
 	- [Sony](#sony)
 - [Utilities](#utilities)
+- [Analogue Photography] (#analogue-photography)
 - [RAW image developers](#raw-image-developers)
 - [HDR Specific Software](#hdr-specific-software)
 - [Panorama Stitching](#panorama-stitching)
@@ -71,6 +72,9 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
 - [digiCamControl](https://github.com/dukus/digiCamControl) - *DSLR camera remote control open source software.*
 
+## Analogue photography
+
+- [Digitaltruth](https://www.digitaltruth.com/devchart.php) - *Film development chart.*
 
 ## RAW image developers
 
