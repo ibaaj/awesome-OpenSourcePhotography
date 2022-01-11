@@ -128,7 +128,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## 360° Images
 
-- [Open360viewer](https://github.com/TheGreyDiamond/open360viewer) - *Opensource 360° media viewer.*
+- [Open360viewer](https://github.com/TheGreyDiamond/open360viewer) - *Open source 360° media viewer.*
 
 
 ## Alternative Image Viewers
