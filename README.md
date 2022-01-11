@@ -20,6 +20,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Photo Downloaders](#photo-downloaders)
 - [Camera Tetherers](#camera-tetherers)
 - [Monitor Color Correction](#monitor-color-correction)
+- [360° Images](#360-images)
 - [Alternative Image Viewers](#alternative-image-viewers)
 - [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
 - [Communities](#communities)
@@ -124,6 +125,11 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [Hughski](http://www.hughski.com/index.html)
 - [DisplayCal](http://displaycal.net/) - *Open source display calibration and characterization.*
+
+## 360° Images
+
+- [Open360viewer](https://github.com/TheGreyDiamond/open360viewer) - *opensource 360° media viewer.
+
 
 ## Alternative Image Viewers
 
