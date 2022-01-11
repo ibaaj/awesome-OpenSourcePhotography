@@ -11,7 +11,7 @@ A list of awesome free open source software & libraries for photography. Also to
 	- [GoPro](#gopro)
 	- [Sony](#sony)
 - [Utilities](#utilities)
-- [Analogue Photography] (#analogue-photography)
+- [Analogue Photography](#analogue-photography)
 - [RAW image developers](#raw-image-developers)
 - [HDR Specific Software](#hdr-specific-software)
 - [Panorama Stitching](#panorama-stitching)
