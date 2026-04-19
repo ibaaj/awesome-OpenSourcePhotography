@@ -89,7 +89,9 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Fotoxx](http://www.kornelix.com/fotoxx.html) - A Linux program for editing photos and other images.
 
 ## HDR Specific Software
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - A complete workflow for HDR imaging.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - HDR Tone Mapping GUI for Linux.
 - [PFS Tools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating HDR images and video frames.
 
