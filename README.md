@@ -103,7 +103,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - Open Source Photo manager for KDE/Gnome desktop.
 - [GPhoto](http://www.gphoto.org/) - A program and library framework that lets users download pictures from their digital cameras.
-- [immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - MCP server for intelligent photo management with self-hosted Immich — AI-powered search, geographic album curation, duplicate detection, library health analysis, and interactive HTML galleries.
+- [immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - MCP server for intelligent photo management with self-hosted Immich — AI-powered search, geographic album curation, duplicate detection, people and face recognition, library health analysis, and interactive HTML galleries.
 - [Lychee](http://lychee.electerious.com/) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
 - [Leaf Pic](https://github.com/HoraApps/LeafPic/) - Material-designed android gallery alternative.
