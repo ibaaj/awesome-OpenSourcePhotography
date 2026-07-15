@@ -38,6 +38,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - A non-destructive photo retouching program including RAW image development.
 - [ImageMagick](http://www.imagemagick.org/) - A suite of command-line utilities for modifying and working with images.
 - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
+- [Brush Photo & Video Library](https://github.com/IgorShadurin/brush-photo-video-lib) - Adds curved Unicode text overlays to photos and exports them as standalone SVGs, with implementations for 20 languages.
 
 ## Camera Firmware Mods 
 
@@ -199,5 +200,4 @@ make -f tmp/hugin.mk all
 ```
 
 ![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
-
 
