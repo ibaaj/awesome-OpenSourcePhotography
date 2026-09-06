@@ -163,6 +163,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to 
 record, convert and stream audio and video.
 - [Virtualdub](http://www.virtualdub.org/) - A free video tool for basic editing and encoding.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - A local CLI and MCP toolkit for cutting, joining, mixing, and subtitling video with FFmpeg.
 
 ### Compositing software
 
