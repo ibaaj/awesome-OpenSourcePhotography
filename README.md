@@ -76,6 +76,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Analogue photography
 
 - [Digitaltruth](https://www.digitaltruth.com/devchart.php) - Film development chart.
+- [Openfilm film stock database](https://openfilm.cc/en/tools/film-stock-database/) - 68 current and classic film stocks with ISO, format, grain and latitude; CSV/JSON export under CC BY 4.0.
 
 ## RAW image developers
 
