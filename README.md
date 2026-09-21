@@ -112,6 +112,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## EXIF Editors
 - [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 - [Exiv2](https://github.com/Exiv2/exiv2/)  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+- [ShrinkKit](https://github.com/p32929/shrinkkit) - Browser-based EXIF/GPS viewer and bulk image compressor; reads the metadata of a whole folder of photos locally and removes it on re-encode.
 
 ## Photo Downloaders
 
