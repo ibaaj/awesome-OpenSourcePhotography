@@ -76,6 +76,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Analogue photography
 
 - [Digitaltruth](https://www.digitaltruth.com/devchart.php) - Film development chart.
+- [Grainy](https://github.com/pastorius9/grainy) - A photo editor and library made for film scans: one-button colour cast correction, dust and scratch detection, RAW development (Windows, macOS).
 
 ## RAW image developers
 
