@@ -87,6 +87,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [DCRaw](http://www.cybercom.net/~dcoffin/dcraw/) - Decoding raw digital photos in Linux.
 - [Lightzone](http://lightzoneproject.org/) - Open-source digital darkroom software for Windows/Mac/Linux.
 - [Fotoxx](http://www.kornelix.com/fotoxx.html) - A Linux program for editing photos and other images.
+- [Lightframes](https://github.com/joancomadran/lightframes) - A browser-based RAW photo editor (LibRaw compiled to WebAssembly) that applies XMP presets and .cube LUTs in batch; nothing is uploaded.
 
 ## HDR Specific Software
 - [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) - A complete workflow for HDR imaging.
