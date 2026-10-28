@@ -162,6 +162,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to 
 record, convert and stream audio and video.
+- [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) - MIT local subtitle-review workspace for SDH and Chinese-to-English tracks, with SRT/ITT export. Existing-subtitle review runs without external AI; optional cloud processing may incur charges. Public preview.
 - [Virtualdub](http://www.virtualdub.org/) - A free video tool for basic editing and encoding.
 
 ### Compositing software
