@@ -155,6 +155,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Pexels.com](https://pexels.com/) - Royalty free high-resolution stock photos, [licensed](https://www.pexels.com/photo-license/) under Creative Commons Zero (CC0)
 - [Pixabay.com](https://pixabay.com/) - Royalty free stock photos and videos, [licensed](https://pixabay.com/en/service/faq/) under Creative Commons Zero (CC0).
 - [Shutterography.com](https://www.shutterography.com) - Free Photos.
+- [Free Creative Suite](https://freecreativesuite.com/open-source-photo-editor/) - Decision guides comparing free and open-source photo editors as Adobe Photoshop/Lightroom alternatives.
 
 ## Video 
 
