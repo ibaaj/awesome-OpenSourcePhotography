@@ -135,6 +135,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [Geeqie](http://geeqie.sourceforge.net/) - An image viewer and image organiser program for Unix-like operating systems.
 - [FEH](http://feh.finalrewind.org/) - An X11 image viewer.
+- [Flipic](https://github.com/xmasdong/flipic) - A photo culling viewer for photographers: arrow-key paging through a folder, 100% focus check, XMP ratings, on-device cleanup mode.
 
 ## Useful GIMP Mods or Scripts
 
