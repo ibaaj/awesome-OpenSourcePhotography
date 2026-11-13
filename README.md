@@ -93,6 +93,10 @@ A list of awesome free open source software & libraries for photography. Also to
 - [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - HDR Tone Mapping GUI for Linux.
 - [PFS Tools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating HDR images and video frames.
 
+## Focus Stacking
+
+- [OpenFocus](https://github.com/Xinzhe99/OpenFocus) - Free and open-source focus stacking software with ten fusion algorithms, 16-bit processing, depth maps and a headless CLI for macro, microscopy and industrial stacks.
+
 ## Panorama Stitching
 
 - [Hugin](http://hugin.sourceforge.net/) - An easy to use cross-platform panoramic imaging toolchain.
