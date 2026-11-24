@@ -72,6 +72,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - Control your Canon or Nikon DSLR camera from your Android device through USB.
 - [digiCamControl](https://github.com/dukus/digiCamControl) - DSLR camera remote control open source software.
+- [save-image-as-png-jpg](https://github.com/yangjwlove-dev/save-image-as-png-jpg) - Zero-dependency Manifest V3 browser extension that converts WebP/AVIF web images to PNG or JPG locally using OffscreenCanvas with no server uploads.
 
 ## Analogue photography
 
