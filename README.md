@@ -72,6 +72,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - Control your Canon or Nikon DSLR camera from your Android device through USB.
 - [digiCamControl](https://github.com/dukus/digiCamControl) - DSLR camera remote control open source software.
+- [CreoArt Photo Editor](https://creoart.app/photo-editor) - Free, ad-free client-side browser WebGPU PSD viewer and layer photo editor (zero file uploads).
 
 ## Analogue photography
 
